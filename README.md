@@ -42,7 +42,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
       </p>
     </td>
     <td valign="top">
-      <h3 align="center">Databases & Search</h3>
+      <h3 align="center">Databases and Search</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
