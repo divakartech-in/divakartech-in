@@ -13,6 +13,13 @@ Passionate about architecting cloud-native applications, designing intelligent s
 - 🎖️ Recognized with multiple awards including **STAR Performer** & **Client Advocate Award**  
 
 
+## 🏅 Achievements  
+- 🧑‍🔬 **Patent Holder** – US Patent Application No. 20220309670 (Visualization for Cancer Diagnosis)  
+- 🎖️ **STAR Performer Award** – Applied Materials (2021)  
+- 🏆 **Hackathon Winner** – Housing.com (2015)  
+- 🛡️ **Client Advocate & Safe Hands Awards** – Gramener (2019, 2020)  
+
+
 ## 🛠️ Tech Stack  
 <table align="center">
   <tr>
@@ -59,15 +66,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 </table>
 
 
-## 🏅 Achievements  
-- 🧑‍🔬 **Patent Holder** – US Patent Application No. 20220309670 (Visualization for Cancer Diagnosis)  
-- 🎖️ **STAR Performer Award** – Applied Materials (2021)  
-- 🏆 **Hackathon Winner** – Housing.com (2015)  
-- 🛡️ **Client Advocate & Safe Hands Awards** – Gramener (2019, 2020)  
-
-
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true" height="180px"/>
 </p>
