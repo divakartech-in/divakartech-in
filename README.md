@@ -15,8 +15,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 
 ## 🛠️ Tech Stack  
 
-### Languages & Core
-<p align="center">
+### Languages & Core <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
@@ -25,8 +24,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
 </p>
 
-### Frameworks & Libraries  
-<p align="center">
+### Frameworks & Libraries  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px"/>
@@ -36,15 +34,13 @@ Passionate about architecting cloud-native applications, designing intelligent s
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30px"/>
 </p>
 
-### Databases & Search  
-<p align="center">
+### Databases & Search  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40px"/>
   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" height="30px"/>
 </p>
 
-### Cloud, DevOps & Tools  
-<p align="center">
+### Cloud, DevOps & Tools  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" height="30px"/>
@@ -53,15 +49,12 @@ Passionate about architecting cloud-native applications, designing intelligent s
 </p>
 
 
----
-
 ## 🏅 Achievements  
 - 🧑‍🔬 **Patent Holder** – US Patent Application No. 20220309670 (Visualization for Cancer Diagnosis)  
 - 🎖️ **STAR Performer Award** – Applied Materials (2021)  
 - 🏆 **Hackathon Winner** – Housing.com (2015)  
 - 🛡️ **Client Advocate & Safe Hands Awards** – Gramener (2019, 2020)  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -74,30 +67,6 @@ Passionate about architecting cloud-native applications, designing intelligent s
   <img src="https://streak-stats.demolab.com?user=divakardass&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
----
-
-## 📌 Pinned Projects  
-
-<p align="center">
-  <a href="https://github.com/divakardass/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divakardass&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/divakardass/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divakardass&repo=project2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/divakardass/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divakardass&repo=project3&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divakardass)  
-[![Email](https://img.shields.io/badge/Email-divakardass%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divakardass@yahoo.com)  
-
----
-✨ _Always exploring cutting-edge technologies and building impactful solutions._  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divakardass)  [![Email](https://img.shields.io/badge/Email-divakardass%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divakardass@yahoo.com)  
