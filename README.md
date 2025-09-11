@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Divakar Dass </h1>
+<h1 align="center">👋 Hi, I'm Divakar D</h1>
 
 ## 🚀 **Technical Architect | Full-Stack Engineer | Cloud-Native Developer**  
 With 12+ years of experience building scalable, secure, and high-performance software solutions across industries.  
