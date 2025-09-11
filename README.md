@@ -23,8 +23,8 @@ Passionate about architecting cloud-native applications, designing intelligent s
 ## 🛠️ Tech Stack  
 <table>
   <tr>
-    <td valign="top" width="25%">
-      <h3 align="center">Languages</h3>
+    <td valign="top">
+      <h3 align="center">Languages & core</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
@@ -32,8 +32,8 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">Frameworks</h3>
+    <td valign="top">
+      <h3 align="center">Frameworks & Libs</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
@@ -41,7 +41,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40px"/>
       </p>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h3 align="center">Databases & Search</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
@@ -50,8 +50,8 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40px"/>
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">Cloud, DevOps & Tools</h3>
+    <td valign="top">
+      <h3 align="center">Cloud & DevOps</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
