@@ -21,7 +21,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 
 
 ## 🛠️ Tech Stack  
-<table align="center">
+<table>
   <tr>
     <td valign="top">
       <h3 align="center">Languages & Core</h3>
@@ -41,9 +41,6 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40px"/>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">Databases & Search</h3>
       <p align="center">
@@ -67,12 +64,9 @@ Passionate about architecting cloud-native applications, designing intelligent s
 
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divakartech-in" height="180px"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakartech-in&" alt="divakartech-in" />
 </p>
 
 
