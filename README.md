@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Divakar D</h1>
 
 ## 🚀 **Technical Architect | Full-Stack Engineer | Cloud-Native Developer**  
-With 12+ years of experience building scalable, secure, and high-performance software solutions across industries.  
-Passionate about architecting cloud-native applications, designing intelligent systems, and mentoring developers.  
+With 12+ years of experience building scalable, secure, and high-performance software solutions across industries. Passionate about architecting cloud-native applications, designing intelligent systems, and mentoring developers.  
 
 
 ## 🌟 About Me  
