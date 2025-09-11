@@ -24,7 +24,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 <table>
   <tr>
     <td valign="top" width="25%">
-      <h3 align="center">Languages & Core</h3>
+      <h3 align="center">Languages</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
@@ -33,7 +33,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
       </p>
     </td>
     <td valign="top" width="25%">
-      <h3 align="center">Frameworks & Libraries</h3>
+      <h3 align="center">Frameworks</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
