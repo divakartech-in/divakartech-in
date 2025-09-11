@@ -33,7 +33,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
       </p>
     </td>
     <td valign="top">
-      <h3 align="center">Frameworks & Libs</h3>
+      <h3 align="center">Frameworks & Libraries</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
@@ -51,7 +51,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
       </p>
     </td>
     <td valign="top">
-      <h3 align="center">Cloud & DevOps</h3>
+      <h3 align="center">Cloud & DevOps Tools</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
