@@ -23,7 +23,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 ## 🛠️ Tech Stack  
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Languages & Core</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
@@ -32,7 +32,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Frameworks & Libraries</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
@@ -41,7 +41,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40px"/>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Databases & Search</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
@@ -50,7 +50,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40px"/>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Cloud, DevOps & Tools</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
@@ -65,7 +65,7 @@ Passionate about architecting cloud-native applications, designing intelligent s
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakartech-in&" alt="divakartech-in" />
 </p>
 
