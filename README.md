@@ -65,7 +65,7 @@ With 12+ years of experience building scalable, secure, and high-performance sof
 ## 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=divakartech-in&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakartech-in&" alt="divakartech-in" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divakartech-in" alt="divakartech-in" />
 </p>
 
 
